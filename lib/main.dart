@@ -16,7 +16,6 @@ class MyApp extends StatelessWidget {
             borderSide: BorderSide(color: Colors.white),
           ),
         ),
-        primarySwatch: Colors.orange,
       ),
       home: MyHomePage(),
     );
